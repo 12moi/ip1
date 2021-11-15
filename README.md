@@ -1,5 +1,5 @@
 ## BURGER PALACE 
-This a moringa restuarant website created on 14/11/2021
+This a moringa restuarant website created by  Moi Shadrack, on 14/11/2021
 
 ## Decsription
  this is a restuarant website allow visitors to the site to check on the vaiety of meals and dishes the restaurant can offer
